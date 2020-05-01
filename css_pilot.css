@@ -1,6 +1,9 @@
 html {
-  background-color: #4feb34;
+  background-color: #ffffff;
   font-size: 20px;
+}
+h1 {
+  color: #ba8ee6;
 }
 ul {
   background: red;
