@@ -1,3 +1,7 @@
+img.resize {
+    width:540px;
+    height: auto;
+}
 html {
   background-color: #ffffff;
   font-size: 20px;
