@@ -10,7 +10,7 @@ ul {
   padding: 10px;
   border: 1px solid black;
 }
-img.resize {
+img {
     width:540px;
     height: auto;
 }
